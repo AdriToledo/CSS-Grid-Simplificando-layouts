@@ -11,17 +11,17 @@
     
 }
 
-.encabezado { background: aqua;
+.encabezado { 
 grid-area: encabezado;
     
 }
 .contenido {
-    background: white;
+    
     grid-area: contenido;
 
 }
 
 .rodapie { 
-background: palevioletred;
+
     grid-area: rodapie;
 }
